@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hatice KARAOĞLU</h1>
-<h3 align="center">A passionate machine learning developer from Turkey</h3>
+<h1 align="center">Merhaba 👋, Ben Hatice KARAOĞLU</h1>
+<h3 align="center">Veri bilimi alanında kendimi gelistirmekteyim. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
