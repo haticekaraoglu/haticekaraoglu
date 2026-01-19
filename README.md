@@ -26,6 +26,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;C%23+%26+.NET;Clean+Code+Lover&center=true&width=500&height=50">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haticekaraoglu&show_icons=true&theme=dark"/>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haticekaraoglu&show_icons=true&locale=en&layout=compact" alt="haticekaraoglu" /></p>
