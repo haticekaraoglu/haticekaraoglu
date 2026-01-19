@@ -23,7 +23,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;Clean+Code+Lover&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;Machine+Learning;Python;Deep+Learning;Clean+Code+Lover&center=true&width=500&height=50">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haticekaraoglu&show_icons=true&locale=en&layout=compact" alt="haticekaraoglu" /></p>
